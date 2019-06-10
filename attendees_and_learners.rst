@@ -1,4 +1,4 @@
-####################
+﻿####################
 Attendees & learners
 ####################
 
@@ -365,3 +365,7 @@ I followed the tutorial online
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
 *Vincent Maina
 *Niggas in Paris
+*Capitan Ramos
+*Harmo
+*Batman Dark Knight
+*Smoker Joker
